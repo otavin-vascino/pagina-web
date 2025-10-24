@@ -1,4 +1,11 @@
 body{
-    background-color: rgb(191, 86, 243);
+    background-color: rgb(213, 108, 240);
     font-family: Rock Salt;
+}
+header{
+    font-size: 20px;
+    text-align: center;
+}
+.top1{
+  background-color: rgb(240, 108, 240);  
 }
